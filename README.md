@@ -2,7 +2,7 @@
 
 In this lab you'll be making a little baby rails app about PLANETS!!!! 
 
-[Here is your planet object!](./planets.rb) Use it wisely...
+[Here is your planet object!](./planets.rb). Consider setting it as an instance variable in the controller. If you remember Ruby classes then you can use **def initialize** to initialize variables.
 
 You'll be creating a bunch of routes & views using this object!
 
